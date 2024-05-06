@@ -24,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumita-dangal&show_icons=true&locale=en" alt="sumita-dangal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumita-dangal&" alt="sumita-dangal" /></p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumita-dangal&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
