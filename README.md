@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📝 I regularly write articles on [https://medium.com/@sdangal489 , https://cprogrammingb.blogspot.com/](https://medium.com/@sdangal489 , https://cprogrammingb.blogspot.com/)
+- 📝 I regularly write articles on [https://medium.com/@sdangal489](https://medium.com/@sdangal489)
 
 - 📫 How to reach me **sdangal489@gmail.com**
 
