@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumita Dangal</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumita-dangal&label=Profile%20views&color=0e75b6&style=flat" alt="sumita-dangal" /> </p>
+
 - 🌱 I’m currently learning **Python**
 
 - 📝 I regularly write articles on [https://medium.com/@sdangal489](https://medium.com/@sdangal489)
@@ -21,9 +23,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumita-dangal&show_icons=true&locale=en&layout=compact" alt="sumita-dangal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumita-dangal&show_icons=true&locale=en" alt="sumita-dangal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumita-dangal&" alt="sumita-dangal" /></p>
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumita-dangal&" alt="sumita-dangal" /></p>
 
