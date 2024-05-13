@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sumita Dangal</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumita-dangal&label=Profile%20views&color=0e75b6&style=flat" alt="sumita-dangal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumita-dangal" alt="sumita-dangal" /></a> </p>
-
 - 🌱 I’m currently learning **Python**
 
 - 📝 I regularly write articles on [https://medium.com/@sdangal489](https://medium.com/@sdangal489)
